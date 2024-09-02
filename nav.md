@@ -2,6 +2,15 @@
 
 # demo
 
+| project  | url                                   |
+| -------- | ------------------------------------- |
+| zen      | https://github.com/hallyoung/zen      |
+| mime     | https://github.com/hallyoung/mime     |
+| TSFkit   | https://github.com/hallyoung/TSFKit   |
+| ccimet   | https://github.com/hallyoung/ccimet   |
+| btun     | https://github.com/hallyoung/btun     |
+| geotools | https://github.com/hallyoung/geotools |
+
 # learn
 
 | project          | url                                           |
