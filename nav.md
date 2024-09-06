@@ -20,4 +20,5 @@
 | Xray-core        | https://github.com/hallyoung/Xray-core        |
 | hysteria         | https://github.com/hallyoung/hysteria         |
 | cf_worker_trojan | https://github.com/hallyoung/cf_worker_trojan |
-| geo-utils        | https://github.com/hallyoung/geo-utils        |
+| geo-utils        | https://github.com/hallyoung/geo              |
+| librime          | https://github.com/hallyoung/librime          |
